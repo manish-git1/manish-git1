@@ -1,7 +1,7 @@
 - 👋 Hi, I’m manish
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on hacking
+
 
 
 <!---
