@@ -1,6 +1,12 @@
+-- WELCOME TO MY VIRTUAL WORLD--
+
 - 👋 Hi, I’m manish
 - 👀 I’m interested in cyber security
+- Doing web dev for fun
 - 🌱 I’m currently learning java and kali
+
+
+
 
 
 
